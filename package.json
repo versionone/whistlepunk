@@ -49,11 +49,11 @@
     "show-coverage": "open ./coverage/lcov-report/index.html"
   },
   "dependencies": {
-    "colors": "1.0.3",
-    "debug": "2.2.0",
+    "colors": "^1.0.3",
+    "debug": "^2.2.0",
     "lodash": "^3.9.0",
     "machina": "1.x",
-    "moment": "2.19.3",
+    "moment": "^2.19.3",
     "when": "3.x",
     "postal": "1.x"
   },
